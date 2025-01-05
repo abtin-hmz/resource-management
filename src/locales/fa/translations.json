@@ -1,0 +1,19 @@
+
+{
+    "welcome": "خوش آمدید",
+    "signUp": "ثبت نام",
+    "login": "ورود",
+    "username": "نام کاربری",
+    "password": "رمز عبور",
+    "email": "ایمیل",
+    "confirmPassword": "تأیید رمز عبور",
+    "adminDashboard": "داشبورد مدیر",
+    "reserve": "رزرو",
+    "reserved": "رزرو شده",
+    "available": "موجود",
+    "classes": "کلاس‌ها",
+    "laptops": "لپ‌تاپ‌ها",
+    "laboratories": "آزمایشگاه‌ها",
+    "invalidCredentials": "ایمیل یا رمز عبور نامعتبر است"
+  }
+  

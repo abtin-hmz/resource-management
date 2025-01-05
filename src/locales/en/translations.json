@@ -1,0 +1,19 @@
+{
+    "welcome": "Welcome",
+    "signUp": "Sign Up",
+    "login": "Login",
+    "username": "Username",
+    "password": "Password",
+    "email": "Email",
+    "confirmPassword": "Confirm Password",
+    "adminDashboard": "Admin Dashboard",
+    "reserve": "Reserve",
+    "reserved": "Reserved",
+    "available": "Available",
+    "classes": "Classes",
+    "laptops": "Laptops",
+    "laboratories": "Laboratories",
+    "invalidCredentials": "Invalid email or password"
+
+  }
+  
